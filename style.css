@@ -58,9 +58,7 @@ button {
     transition: transform 0.3s ease-in-out;
   }
   
-  .settings.hide {
-    transform: translateY(-100%);
-  }
+  
   
   .container {
     background-color: #34495e;
